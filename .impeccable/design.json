@@ -1,0 +1,649 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-17T15:39:25.005135+00:00",
+  "title": "Design System: Lucas Pereira — Portfólio",
+  "extensions": {
+    "colorMeta": {
+      "flap": {
+        "role": "neutral",
+        "displayName": "Flap Black",
+        "canonical": "#0b0b0b",
+        "oklch": "oklch(15.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "concourse": {
+        "role": "neutral",
+        "displayName": "Concourse",
+        "canonical": "#151515",
+        "oklch": "oklch(19.6% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "sheet": {
+        "role": "neutral",
+        "displayName": "Ficha Sheet",
+        "canonical": "#111111",
+        "oklch": "oklch(17.8% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "flap-face": {
+        "role": "neutral",
+        "displayName": "Flap Face",
+        "canonical": "#1b1b1b",
+        "oklch": "oklch(22.2% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "flap-face-2": {
+        "role": "neutral",
+        "displayName": "Flap Face Lower",
+        "canonical": "#222324",
+        "oklch": "oklch(25.5% 0.002 248)",
+        "tonalRamp": [
+          "#0b0b0c",
+          "#242526",
+          "#414243",
+          "#606162",
+          "#818283",
+          "#a4a5a6",
+          "#c8c9ca",
+          "#eeeeef"
+        ]
+      },
+      "seam": {
+        "role": "neutral",
+        "displayName": "Hairline Seam",
+        "canonical": "#000000",
+        "oklch": "oklch(0.0% 0.000 0)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "rule": {
+        "role": "neutral",
+        "displayName": "Board Rule",
+        "canonical": "#2d2d2d",
+        "oklch": "oklch(29.7% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "rule-strong": {
+        "role": "neutral",
+        "displayName": "Board Rule Strong",
+        "canonical": "#464646",
+        "oklch": "oklch(39.4% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "row-hover": {
+        "role": "neutral",
+        "displayName": "Row Hover",
+        "canonical": "#161616",
+        "oklch": "oklch(20.0% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "lamp-off": {
+        "role": "neutral",
+        "displayName": "Lamp Off",
+        "canonical": "#3a3a3a",
+        "oklch": "oklch(34.8% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "steel": {
+        "role": "neutral",
+        "displayName": "Steel",
+        "canonical": "#b6bbc2",
+        "oklch": "oklch(79.0% 0.011 257)",
+        "tonalRamp": [
+          "#0a0b0e",
+          "#232529",
+          "#3f4247",
+          "#5d6267",
+          "#7e8389",
+          "#a1a5ab",
+          "#c6c9ce",
+          "#eceff2"
+        ]
+      },
+      "steel-dark": {
+        "role": "neutral",
+        "displayName": "Steel Dark",
+        "canonical": "#7d838c",
+        "oklch": "oklch(60.8% 0.015 258)",
+        "tonalRamp": [
+          "#090b0e",
+          "#22252a",
+          "#3e4249",
+          "#5c626a",
+          "#7d838b",
+          "#a0a5ad",
+          "#c5c9d0",
+          "#ebeff4"
+        ]
+      },
+      "steel-hi": {
+        "role": "neutral",
+        "displayName": "Steel Highlight",
+        "canonical": "#d3d7dc",
+        "oklch": "oklch(87.8% 0.008 254)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232528",
+          "#404245",
+          "#5e6165",
+          "#7f8387",
+          "#a2a5a9",
+          "#c7c9cc",
+          "#edeff1"
+        ]
+      },
+      "steel-mid": {
+        "role": "neutral",
+        "displayName": "Steel Mid",
+        "canonical": "#8d939a",
+        "oklch": "oklch(66.1% 0.013 252)",
+        "tonalRamp": [
+          "#090b0e",
+          "#222529",
+          "#3e4247",
+          "#5d6268",
+          "#7d8389",
+          "#a1a6ab",
+          "#c5cace",
+          "#eceff3"
+        ]
+      },
+      "steel-lo": {
+        "role": "neutral",
+        "displayName": "Steel Low",
+        "canonical": "#c4c9ce",
+        "oklch": "oklch(83.3% 0.009 248)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232528",
+          "#3f4246",
+          "#5e6266",
+          "#7f8387",
+          "#a2a5a9",
+          "#c6c9cd",
+          "#eceff1"
+        ]
+      },
+      "rail-top": {
+        "role": "neutral",
+        "displayName": "Rail Top",
+        "canonical": "#c9cdd2",
+        "oklch": "oklch(84.7% 0.008 254)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232528",
+          "#404245",
+          "#5e6166",
+          "#7f8387",
+          "#a2a5a9",
+          "#c7c9cc",
+          "#edeff1"
+        ]
+      },
+      "rail-bottom": {
+        "role": "neutral",
+        "displayName": "Rail Bottom",
+        "canonical": "#9ba1a8",
+        "oklch": "oklch(70.6% 0.012 252)",
+        "tonalRamp": [
+          "#090b0e",
+          "#222529",
+          "#3e4247",
+          "#5d6268",
+          "#7e8389",
+          "#a1a5ab",
+          "#c6c9ce",
+          "#eceff2"
+        ]
+      },
+      "rail-edge": {
+        "role": "neutral",
+        "displayName": "Rail Edge",
+        "canonical": "#5d636a",
+        "oklch": "oklch(49.7% 0.013 252)",
+        "tonalRamp": [
+          "#090b0e",
+          "#222529",
+          "#3e4248",
+          "#5c6268",
+          "#7d838a",
+          "#a0a6ac",
+          "#c5cacf",
+          "#ebeff3"
+        ]
+      },
+      "rail-ink-soft": {
+        "role": "neutral",
+        "displayName": "Rail Ink Soft",
+        "canonical": "#26292c",
+        "oklch": "oklch(27.9% 0.007 248)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232527",
+          "#404245",
+          "#5e6265",
+          "#7f8386",
+          "#a2a5a8",
+          "#c7c9cc",
+          "#edeff1"
+        ]
+      },
+      "flap-white": {
+        "role": "neutral",
+        "displayName": "Flap White",
+        "canonical": "#f2f2f2",
+        "oklch": "oklch(96.1% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Body Text",
+        "canonical": "#e6e7e8",
+        "oklch": "oklch(92.7% 0.002 248)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#414243",
+          "#606162",
+          "#818283",
+          "#a4a5a6",
+          "#c8c9ca",
+          "#eeeeef"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "canonical": "#a8afb7",
+        "oklch": "oklch(75.1% 0.014 252)",
+        "tonalRamp": [
+          "#090b0e",
+          "#222529",
+          "#3e4248",
+          "#5c6269",
+          "#7d838a",
+          "#a0a6ac",
+          "#c5cacf",
+          "#ebeff3"
+        ]
+      },
+      "label": {
+        "role": "neutral",
+        "displayName": "Label",
+        "canonical": "#949ba3",
+        "oklch": "oklch(68.6% 0.014 252)",
+        "tonalRamp": [
+          "#090b0e",
+          "#222529",
+          "#3e4248",
+          "#5c6269",
+          "#7d838a",
+          "#a0a6ac",
+          "#c5cacf",
+          "#ebeff3"
+        ]
+      },
+      "delay-amber": {
+        "role": "primary",
+        "displayName": "Delay Amber",
+        "canonical": "#ffb400",
+        "oklch": "oklch(82.0% 0.171 78)",
+        "tonalRamp": [
+          "#1d0300",
+          "#401900",
+          "#673400",
+          "#905000",
+          "#b47300",
+          "#d29a31",
+          "#f0c175",
+          "#ffe9af"
+        ]
+      },
+      "delay-amber-soft": {
+        "role": "primary",
+        "displayName": "Delay Amber Soft",
+        "canonical": "#ffc633",
+        "oklch": "oklch(85.5% 0.162 86)",
+        "tonalRamp": [
+          "#190500",
+          "#3b1e00",
+          "#603900",
+          "#875700",
+          "#aa7900",
+          "#c99e38",
+          "#e8c478",
+          "#ffebb1"
+        ]
+      },
+      "amber-ink": {
+        "role": "neutral",
+        "displayName": "Amber Ink",
+        "canonical": "#111111",
+        "oklch": "oklch(17.8% 0.000 90)",
+        "tonalRamp": [
+          "#0b0b0b",
+          "#252525",
+          "#424242",
+          "#616161",
+          "#828282",
+          "#a5a5a5",
+          "#c9c9c9",
+          "#eeeeee"
+        ]
+      },
+      "concluded": {
+        "role": "status",
+        "displayName": "Concluded",
+        "canonical": "#c9ced4",
+        "oklch": "oklch(84.9% 0.010 253)",
+        "tonalRamp": [
+          "#0a0b0d",
+          "#232528",
+          "#3f4246",
+          "#5e6266",
+          "#7e8388",
+          "#a2a5aa",
+          "#c6c9cd",
+          "#eceff2"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero h1 in split-flap cells, two authored rows."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section h2s in flap cells, two rows."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Ficha and skill-row names, condensed caps."
+      },
+      "board": {
+        "displayName": "Board",
+        "purpose": "Departure rows, field values, buttons, filters, nav."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Prose in sentence case at normal width."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "12px field names, column heads, tags; 75% width, 0.1em tracking."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "flap-fall",
+        "value": "rotateX(0 -> -90deg) on the top half, 200ms cubic-bezier(0.23, 1, 0.32, 1), stagger capped at 480ms",
+        "purpose": "The only motion: hero at load, departures at first view and on filter re-sort. Off under reduced motion."
+      },
+      {
+        "name": "color-shift",
+        "value": "120ms ease on color, border-color, background-color",
+        "purpose": "Hover and lamp state."
+      },
+      {
+        "name": "press",
+        "value": "scale(.98) 100ms cubic-bezier(0.23, 1, 0.32, 1)",
+        "purpose": "Button press feedback."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "lg",
+        "value": "1080px",
+        "type": "max-width"
+      },
+      {
+        "name": "md",
+        "value": "900px",
+        "type": "max-width"
+      },
+      {
+        "name": "sm",
+        "value": "720px",
+        "type": "max-width"
+      },
+      {
+        "name": "xs",
+        "value": "420px",
+        "type": "max-width"
+      },
+      {
+        "name": "xxs",
+        "value": "359px",
+        "type": "max-width"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The one amber action of a board.",
+      "html": "<a class=\"ds-btn ds-btn-amber\" href=\"#\">Conheça meus projetos <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 4v15M5.5 12.5 12 19l6.5-6.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/></svg></a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 12px;border:1px solid #464646;background:#1b1b1b;color:#f2f2f2;font:600 15px/1 Saira,'Segoe UI',sans-serif;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;border-radius:2px;text-decoration:none;transition:border-color 120ms ease,color 120ms ease,background-color 120ms ease}.ds-btn-amber{background:#ffb400;border-color:#ffb400;color:#111}.ds-btn-amber:hover{background:#ffc633;border-color:#ffc633}.ds-btn:focus-visible{outline:3px solid #ffb400;outline-offset:3px}"
+    },
+    {
+      "name": "Plate Button",
+      "kind": "button",
+      "refersTo": "button-plate",
+      "description": "Secondary actions as flap plates; amber only on hover.",
+      "html": "<a class=\"ds-pbtn\" href=\"#\">Meu GitHub <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8.5 7H17v8.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/></svg></a>",
+      "css": ".ds-pbtn{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:0 12px;border:1px solid #464646;background:#1b1b1b;color:#f2f2f2;font:600 15px/1 Saira,'Segoe UI',sans-serif;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;border-radius:2px;text-decoration:none;transition:border-color 120ms ease,color 120ms ease}.ds-pbtn:hover{border-color:#ffb400;color:#ffb400}.ds-pbtn:focus-visible{outline:3px solid #ffb400;outline-offset:3px}"
+    },
+    {
+      "name": "Filter Chips",
+      "kind": "chip",
+      "refersTo": "filter",
+      "description": "aria-pressed toggles; pressed is flap-white.",
+      "html": "<div class=\"ds-filters\"><button class=\"ds-filter\" aria-pressed=\"true\">Todos</button><button class=\"ds-filter\" aria-pressed=\"false\">Gestão e operação</button><button class=\"ds-filter\" aria-pressed=\"false\">Acadêmico</button></div>",
+      "css": ".ds-filters{display:flex;gap:6px;flex-wrap:wrap;background:#0b0b0b;padding:12px}.ds-filter{min-height:40px;padding:0 14px;background:#1b1b1b;border:1px solid #464646;border-radius:2px;color:#f2f2f2;font:600 13px/1 Saira,'Segoe UI',sans-serif;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;cursor:pointer}.ds-filter[aria-pressed=true]{background:#f2f2f2;border-color:#f2f2f2;color:#0b0b0b}.ds-filter[aria-pressed=false]:hover{border-color:#ffb400;color:#ffb400}.ds-filter:focus-visible{outline:3px solid #ffb400;outline-offset:3px}"
+    },
+    {
+      "name": "Status Boxes",
+      "kind": "chip",
+      "refersTo": "status-homologacao",
+      "description": "Five statuses told apart by border style, amber only for homologação.",
+      "html": "<div class=\"ds-sts\"><span class=\"ds-st\">Publicado</span><span class=\"ds-st ds-st-c\">Concluído</span><span class=\"ds-st ds-st-r\">Em homologação</span><span class=\"ds-st ds-st-d\">Em desenvolvimento</span><span class=\"ds-st ds-st-code\">Código público</span></div>",
+      "css": ".ds-sts{display:flex;flex-wrap:wrap;gap:8px;background:#0b0b0b;padding:16px}.ds-st{display:inline-block;padding:3px 9px;border:1px solid currentColor;border-radius:2px;color:#f2f2f2;font:600 13px/1.35 Saira,'Segoe UI',sans-serif;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;white-space:nowrap}.ds-st-c{color:#c9ced4;border-style:double;border-width:3px;padding:1px 7px}.ds-st-r{color:#ffb400}.ds-st-d{border-color:#b6bbc2;border-style:dashed}.ds-st-code{color:#0b0b0b;background:#b6bbc2;border-color:#b6bbc2}"
+    },
+    {
+      "name": "Departure Row",
+      "kind": "custom",
+      "refersTo": "plate",
+      "description": "One project as a departure: lamp, number plate, name plate, board-lettered area, status.",
+      "html": "<table class=\"ds-dep\"><tbody><tr><td><span class=\"ds-lamp\"></span><span class=\"ds-plate ds-num\">02</span></td><th scope=\"row\"><a class=\"ds-plate\" href=\"#\">Ponto Líder</a></th><td class=\"ds-area\">Jornada &amp; marcações</td><td><span class=\"ds-st\">Em homologação</span></td></tr></tbody></table>",
+      "css": ".ds-dep{border-collapse:collapse;background:#0b0b0b;width:100%;font-family:Saira,'Segoe UI',sans-serif}.ds-dep td,.ds-dep th{padding:12px 16px;text-align:left;vertical-align:top;font-size:17px;font-weight:500;line-height:1.75;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;border-bottom:1px solid #2d2d2d}.ds-dep tr:hover{background:#161616}.ds-lamp{display:inline-block;width:9px;height:9px;border-radius:50%;background:#3a3a3a;margin-right:12px;transition:background-color 120ms ease}.ds-dep tr:hover .ds-lamp{background:#ffb400}.ds-plate{display:inline;padding:.14em .45em;background:linear-gradient(#1b1b1b 0 50%,#222324 50%);border-radius:2px;color:#f2f2f2;text-decoration:none;font-weight:600}.ds-num{color:#a8afb7}.ds-area{color:#a8afb7;font-size:15px}.ds-dep .ds-st{display:inline-block;padding:3px 9px;border:1px solid #ffb400;border-radius:2px;color:#ffb400;font-size:13px;line-height:1.35}"
+    },
+    {
+      "name": "Fact Board",
+      "kind": "custom",
+      "refersTo": "plate",
+      "description": "Recruiter facts as ruled rows with plate values; status row lit amber.",
+      "html": "<dl class=\"ds-facts\"><div><dt>Status</dt><dd><span class=\"ds-l\"></span><span class=\"ds-p ds-p-a\">Em busca de estágio</span></dd></div><div><dt>Curso</dt><dd><span class=\"ds-p\">ADS · Fatec Praia Grande · 4º ciclo</span></dd></div><div><dt>Disponibilidade</dt><dd><span class=\"ds-p\">Manhã e tarde · início imediato</span></dd></div></dl>",
+      "css": ".ds-facts{margin:0;padding:8px 24px;background:#0b0b0b;font-family:Saira,'Segoe UI',sans-serif;border:6px solid #b6bbc2;border-image:linear-gradient(180deg,#d3d7dc,#8d939a 48%,#c4c9ce) 1}.ds-facts>div{display:grid;grid-template-columns:112px 1fr;gap:16px;align-items:center;padding:9px 0;border-bottom:1px solid #2d2d2d}.ds-facts dt{font-size:12px;font-weight:600;color:#949ba3;font-stretch:75%;text-transform:uppercase;letter-spacing:.1em}.ds-facts dd{margin:0;display:flex;align-items:center;gap:10px;font-size:16px;font-weight:500;line-height:1.75;font-stretch:87.5%}.ds-p{padding:.14em .45em;background:linear-gradient(#1b1b1b 0 50%,#222324 50%);border-radius:2px;color:#f2f2f2}.ds-p-a{color:#ffb400;font-weight:600}.ds-l{width:9px;height:9px;border-radius:50%;background:#ffb400}"
+    },
+    {
+      "name": "Ficha Header",
+      "kind": "card",
+      "refersTo": "ficha",
+      "description": "Detail sheet header with the board-lettered Tipo / Área / Status strip and a Funciona/Falta note.",
+      "html": "<article class=\"ds-ficha\"><header><span class=\"ds-n\">02</span><h3>Ponto Líder</h3></header><dl class=\"ds-fields\"><div><dt>Tipo</dt><dd>Full stack · Integração</dd></div><div><dt>Área</dt><dd>Jornada &amp; marcações</dd></div><div><dt>Status</dt><dd><span class=\"ds-s\">Em homologação</span></dd></div></dl><dl class=\"ds-note\"><div><dt>Funciona</dt><dd>v2.0.0 publicada; código público (versão sanitizada) no GitHub.</dd></div><div class=\"ds-pend\"><dt>Falta</dt><dd>Homologar login, cálculos e recursos da v2.</dd></div></dl></article>",
+      "css": ".ds-ficha{background:#111;border:1px solid #2d2d2d;border-radius:4px;overflow:hidden;font-family:Saira,'Segoe UI',sans-serif;color:#e6e7e8}.ds-ficha header{display:flex;align-items:center;gap:14px;padding:16px 20px;background:#0b0b0b;border-bottom:1px solid #464646}.ds-n{display:inline-grid;place-items:center;min-width:44px;height:36px;background:linear-gradient(#1b1b1b 0 50%,#222324 50%);color:#a8afb7;font-size:16px;font-weight:600;border-radius:2px}.ds-ficha h3{margin:0;font-size:24px;font-weight:600;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.08em;color:#f2f2f2}.ds-fields{margin:0;display:grid;grid-template-columns:1fr 1fr 1.2fr;background:#0b0b0b;border-bottom:1px solid #464646}.ds-fields>div{padding:10px 20px 12px;border-right:1px solid #2d2d2d}.ds-fields>div:last-child{border-right:0}.ds-fields dt{font-size:12px;font-weight:600;color:#949ba3;font-stretch:75%;text-transform:uppercase;letter-spacing:.1em;margin-bottom:4px}.ds-fields dd{margin:0;font-size:17px;font-weight:600;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.12em;color:#f2f2f2}.ds-s{display:inline-block;padding:3px 9px;border:1px solid #ffb400;color:#ffb400;font-size:13px;border-radius:2px}.ds-note{margin:20px 24px 24px;border-top:1px solid #464646}.ds-note>div{display:grid;grid-template-columns:150px 1fr;gap:14px;padding:11px 0;border-bottom:1px solid #2d2d2d}.ds-note dt{font-size:13px;font-weight:600;font-stretch:62.5%;text-transform:uppercase;letter-spacing:.14em;color:#f2f2f2}.ds-pend dt{color:#ffb400}.ds-note dd{margin:0;font-size:16px}"
+    },
+    {
+      "name": "Contact Row",
+      "kind": "custom",
+      "refersTo": "plate",
+      "description": "Guichê row: label, plate value, steel icon turning amber on hover.",
+      "html": "<ul class=\"ds-cl\"><li><a href=\"#\"><span class=\"ds-cll\">LinkedIn</span><span class=\"ds-clv\">Lucas Oliveira Pereira</span><svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M7 17 17 7M8.5 7H17v8.5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"/></svg></a></li></ul>",
+      "css": ".ds-cl{list-style:none;margin:0;padding:6px 24px;background:#0b0b0b;font-family:Saira,'Segoe UI',sans-serif}.ds-cl a{display:grid;grid-template-columns:1fr auto;align-items:center;gap:8px 16px;padding:22px 0;color:#f2f2f2;text-decoration:none}.ds-cll{font-size:12px;font-weight:600;color:#949ba3;font-stretch:75%;text-transform:uppercase;letter-spacing:.1em}.ds-clv{grid-column:1;justify-self:start;padding:.14em .45em;background:linear-gradient(#1b1b1b 0 50%,#222324 50%);border-radius:2px;font-size:20px;font-weight:500}.ds-cl svg{grid-column:2;grid-row:1/span 2;color:#b6bbc2;transition:color 120ms ease}.ds-cl a:hover svg,.ds-cl a:hover .ds-clv{color:#ffb400}.ds-cl a:focus-visible{outline:3px solid #ffb400;outline-offset:3px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Painel de partidas",
+    "overview": "The site is a concourse departures board. The visitor reads it the way a traveller reads a split-flap board: one gaze down fixed columns of ruled rows. Facts about Lucas are rows on a fact board (Status, Nome, Curso, Disponibilidade, Local, Foco, E-mail). Each project is a departure with a fixed Status column. The detail sheets (fichas) below are the timetable behind each departure. Matte black flap faces sit inside brushed-steel frames. The only light on the board is amber, and it always means something.\n\nThe mood is **clear, practical and organized**. Density is board-like: compact ruled rows inside generous steel-framed regions. Prose (intros, problem and solution, Funciona and Falta) is set in normal-width sentence case so it reads as text. Board voice (headings, labels, statuses, row values) is condensed tracked caps. Illustrations are abstract CSS/SVG diagrams drawn in the board's own material and are never screenshots of the real systems.\n\nIt must never drift toward the neon/glow/3D-blob dev portfolio, the purple-gradient SaaS template, or fake screens of the internal systems. Dark here is a matte board, not a glowing terminal.",
+    "keyCharacteristics": [
+      "Matte flap-black boards in brushed-steel frames; flat, with no shadows or glows.",
+      "Headlines are set letter by letter in split-flap cells with a hairline seam.",
+      "Every fact is a ruled row, and every project a departure row with a fixed Status column.",
+      "Amber is reserved for state and the one primary action per board.",
+      "One motion: the top half of each flap falls on its hairline, once."
+    ],
+    "rules": [
+      {
+        "name": "The Delay Rule",
+        "body": "Amber means state (pending, in validation, active) or the single primary action of a board. Never decoration: no amber icons, accents, pills or links.",
+        "section": "colors"
+      },
+      {
+        "name": "The No-Hue Rule",
+        "body": "The board has no other hue. Status is told apart by border style (solid, double, dashed, filled), not by new colours.",
+        "section": "colors"
+      },
+      {
+        "name": "The Steel-Only Material Rule",
+        "body": "The only texture is brushed steel on frames and the rail. No gradients on surfaces, no glows, no blur.",
+        "section": "colors"
+      },
+      {
+        "name": "The 12px Floor Rule",
+        "body": "No text renders below 12px at any width. Narrow screens drop board columns (Stack at ≤1080, Área at ≤720), never type size.",
+        "section": "typography"
+      },
+      {
+        "name": "The Two-Voice Rule",
+        "body": "Board text is condensed caps; prose is sentence case at normal width. Never set a paragraph in caps.",
+        "section": "typography"
+      },
+      {
+        "name": "The Centered Cell Rule",
+        "body": "Flap cells have a fixed width (0.66em), letter-spacing 0 and centred glyphs. Tracking lives between cells, never inside one.",
+        "section": "typography"
+      },
+      {
+        "name": "The Ruled Row Rule",
+        "body": "Facts, notes, education and contact entries are rows separated by 1px rules with 9–22px of block padding. Content sits on the board, not in nested cards.",
+        "section": "layout"
+      },
+      {
+        "name": "The Frame-Not-Lift Rule",
+        "body": "A region that needs to stand out gets a steel frame or a rule, never a shadow or glow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do frame every board in steel with `border-image: var(--steel-frame) 1`, keeping the face a solid `flap`.",
+      "Do set facts and statuses as ruled rows with fixed columns; drop columns on narrow screens instead of shrinking type below 12px.",
+      "Do use one of the five status boxes for any project status, with the same words, and keep the legend in step with the statuses actually in use.",
+      "Do keep amber for state and the single primary action of a board.",
+      "Do set new section headings as two `.flap-line` rows inside a `.flap-title` so `app.js` builds the cells.",
+      "Do draw project illustrations in CSS/SVG in steel and flap-white, and label them as illustrations when they could be mistaken for real data.",
+      "Do self-host any new asset; the CSP allows only same-origin."
+    ],
+    "donts": [
+      "Don't add shadows, glows, neon, blur or surface gradients; the only texture is brushed steel.",
+      "Don't drift into the neon/glow/3D-blob dev portfolio or the purple-gradient SaaS template.",
+      "Don't show fake screens or dashboards of the internal systems.",
+      "Don't introduce another hue; status difference comes from border style.",
+      "Don't add small labels above headings; put that information in a field strip or row instead.",
+      "Don't use amber for decoration (icons, accent words, links, pills).",
+      "Don't animate anything else; the flip is the only motion, and it runs once per trigger."
+    ]
+  }
+}
