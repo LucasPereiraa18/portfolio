@@ -43,7 +43,7 @@ Visitors arrive from a CV, LinkedIn or a direct link, on desktop or a phone. Not
 - Public code: https://github.com/LucasPereiraa18 (Ponto Líder sanitized repository).
 - Education: ADS at Fatec Praia Grande, 4º ciclo (in progress); Técnico em Informática para Internet at Etec, concluded 2023–2024.
 - Vocatec is the concluded Etec TCC (status "Concluído").
-- Ambiente Líder Etiquetas is concluded (status "Concluído", confirmed by the user 2026-11-17). The e-mail/WhatsApp reminders were dropped by decision and must not be listed as a feature or pending item.
+- Ambiente Líder Etiquetas is concluded (status "Concluído", confirmed by the user 2026-11-17). The current version runs on Vercel with Next.js, TypeScript and PostgreSQL (production deployed from the `migration/postgresql-node` branch); the first version ran on Cloudflare D1 / R2. The e-mail/WhatsApp reminders were dropped by decision and must not be listed as a feature or pending item.
 - Python and Django are part of his toolset (confirmed 2026-11-17), but no project on the site uses them, so they never appear in project tags.
 - Ponto Líder: v2.0.0 published; login, calculations and v2 features are not yet homologated (confirmed by the user 2026-11-16, overriding the CV's "Em uso interno").
 - Recruiter facts (confirmed 2026-11-16): available manhã e tarde, immediate start; Praia Grande/SP; accepts presencial, híbrido or remoto.
